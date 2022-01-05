@@ -5,6 +5,6 @@ $ pkg install nodejs
 $ npm install -g bash-obfuscate
 $ cd /sdcard
 $ git clone https://github.com/HRC303/obfuscate22
-$ cd Encript-DecriptXXII
+$ cd obfuscate22
 $ python2 bash.py
 ```
